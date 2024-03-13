@@ -24,7 +24,7 @@ build-tags:
 
 linters-settings:
   goimports:
-    local-prefixes: github.com/simplesurance/bunny-go
+    local-prefixes: github.com/ezitisitis/bunny-go
 
 issues:
   exclude-use-default: false

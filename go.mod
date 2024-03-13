@@ -1,4 +1,4 @@
-module github.com/simplesurance/bunny-go
+module github.com/ezitisitis/bunny-go
 
 go 1.18
 
