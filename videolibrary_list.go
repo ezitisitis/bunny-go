@@ -29,7 +29,7 @@ func (s *VideoLibraryService) List(
 	// NOTE: The resourceList function is not used for the purpose of
 	// providing the extra query param options in VideoLibraryGetOpts. In the future
 	// hopefully it can be removed for a better solution. See the following discussion:
-	// https://github.com/simplesurance/bunny-go/pull/27#discussion_r1021270152
+	// https://github.com/ezitisitis/bunny-go/pull/27#discussion_r1021270152
 
 	// Ensure that opts.Page is >=1, if it isn't bunny.net will send a
 	// different response JSON object, that contains only a single Object,
